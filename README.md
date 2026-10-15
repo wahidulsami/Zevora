@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/icon.png" alt="Zevora Logo" width="120" height="120" style="border-radius: 24px;" />
+  <img src="zevora-vscode/images/icon.png" alt="Zevora Logo" width="120" height="120" style="border-radius: 24px;" />
 
   # Zevora
 
@@ -36,7 +36,7 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 1. 🌙 Zevora Dark (Signature)
 > Deep charcoal backdrop paired with a soft neon-purple accent system. Tuned for clean contrast without eye fatigue.
 
-![Zevora Dark Preview](images/zevora-dark.png)
+![Zevora Dark Preview](zevora-vscode/images/zevora-dark.png)
 
 * **Base**: `#0D1014` • **Accent**: `#A78BFA` • **Keywords**: `#C4A1FF` • **Functions**: `#82AAFF`
 
@@ -45,7 +45,7 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 2. 🌌 Zevora Midnight
 > Deep navy abyss infused with vivid cyan and electric blue accents, balanced by dreamy lavender keywords.
 
-![Zevora Midnight Preview](images/zevora-midnight.png)
+![Zevora Midnight Preview](zevora-vscode/images/zevora-midnight.png)
 
 * **Base**: `#0A0F1C` • **Accent**: `#22D3EE` • **Keywords**: `#B9A6FF` • **Functions**: `#4DAAFF`
 
@@ -54,7 +54,7 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 3. 🍃 Zevora Emerald
 > Deep forest night illuminated by radiant emerald, fresh mint, and warm yellow tokens. Calm, refreshing, and crisp.
 
-![Zevora Emerald Preview](images/zevora-emerald.png)
+![Zevora Emerald Preview](zevora-vscode/images/zevora-emerald.png)
 
 * **Base**: `#0A1712` • **Accent**: `#10B981` • **Keywords**: `#6EE7B7` • **Functions**: `#66C7F0`
 
@@ -63,7 +63,7 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 4. 🌋 Zevora Ember
 > Warm dark charcoal with glowing amber, coral highlights, and soft peach tones. Ideal for cozy, late-night code flow.
 
-![Zevora Ember Preview](images/zevora-ember.png)
+![Zevora Ember Preview](zevora-vscode/images/zevora-ember.png)
 
 * **Base**: `#171312` • **Accent**: `#FFAE57` • **Keywords**: `#FFA94D` • **Functions**: `#7EB8F0`
 
@@ -72,7 +72,7 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 5. 🌑 Zevora Eclipse
 > Near-black obsidian backdrop with sharp glowing orange and steel blue syntax elements for maximum focus and contrast.
 
-![Zevora Eclipse Preview](images/zevora-eclipse.png)
+![Zevora Eclipse Preview](zevora-vscode/images/zevora-eclipse.png)
 
 * **Base**: `#0A0A0F` • **Accent**: `#FF9E64` • **Keywords**: `#6B9FE8` • **Functions**: `#FF9E64`
 
