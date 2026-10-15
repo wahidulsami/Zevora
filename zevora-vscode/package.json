@@ -3,8 +3,25 @@
   "displayName": "Zevora",
   "description": "A modern dark theme for developers.",
   "version": "0.0.1",
-  "publisher": "your-publisher-id",
-  "category": "Themes",
+  "publisher": "wahidulsami",
+  "author": "Wahidul Islam Sami",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wahidulsami/Zevora.git"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "dark-theme",
+    "zevora",
+    "syntax-highlighting"
+  ],
+  "categories": [
+    "Themes"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
