@@ -10,7 +10,7 @@
   Featuring signature accents, balanced syntax highlighting, and an integrated quick-switcher.
 
   <p>
-    <a href="https://marketplace.visualstudio.com/items?itemName=wahidulsami.zevora"><img src="https://img.shields.io/badge/VS_Code-Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Marketplace" /></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Zevora.zevora"><img src="https://img.shields.io/badge/VS_Code-Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Marketplace" /></a>
     <a href="https://github.com/wahidulsami/Zevora/releases"><img src="https://img.shields.io/badge/version-0.0.1-8B5CF6?style=for-the-badge" alt="Version 0.0.1" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-10B981?style=for-the-badge" alt="License MIT" /></a>
     <a href="https://github.com/wahidulsami/Zevora"><img src="https://img.shields.io/badge/PRs-welcome-F59E0B?style=for-the-badge" alt="PRs Welcome" /></a>
@@ -72,6 +72,8 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 5. 🌑 Zevora Eclipse
 > Near-black obsidian backdrop with sharp glowing orange and steel blue syntax elements for maximum focus and contrast.
 
+![Zevora Eclipse Preview](images/zevora-eclipse.png)
+
 * **Base**: `#0A0A0F` • **Accent**: `#FF9E64` • **Keywords**: `#6B9FE8` • **Functions**: `#FF9E64`
 
 ---
@@ -104,17 +106,30 @@ Switch between Zevora themes in a single step without scrolling through your ent
 
 ## 🚀 Installation
 
-### Option A: From VSIX (Recommended for local install)
+### Option A: From VS Code Marketplace (Recommended)
+
+1. Open VS Code and press `Ctrl + Shift + X` to open the Extensions view.
+2. Search for **Zevora**.
+3. Click **Install**.
+
+Or install from the command line:
+```bash
+code --install-extension Zevora.zevora
+```
+
+[![Install from Marketplace](https://img.shields.io/badge/Install_from-Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Zevora.zevora)
+
+### Option B: From VSIX (Local install)
 
 Run in your terminal:
 ```bash
-code --install-extension zevora-vscode/zevora-0.0.1.vsix
+code --install-extension zevora-0.0.1.vsix
 ```
 
 > **Using a VS Code fork (Antigravity IDE, Cursor, VSCodium)?**
 > Open the Extensions view (`Ctrl+Shift+X`) → Click the **`···`** menu at the top-right → Select **Install from VSIX...** → Choose `zevora-0.0.1.vsix`. Run **Developer: Reload Window** if needed.
 
-### Option B: From Source (Development)
+### Option C: From Source (Development)
 
 1. Clone the repository:
    ```bash
