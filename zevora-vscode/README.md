@@ -72,6 +72,8 @@ Zevora provides **5 distinct flavor profiles** to match your mood, workflow, and
 ### 5. 🌑 Zevora Eclipse
 > Near-black obsidian backdrop with sharp glowing orange and steel blue syntax elements for maximum focus and contrast.
 
+![Zevora Eclipse Preview](images/zevora-eclipse.png)
+
 * **Base**: `#0A0A0F` • **Accent**: `#FF9E64` • **Keywords**: `#6B9FE8` • **Functions**: `#FF9E64`
 
 ---
