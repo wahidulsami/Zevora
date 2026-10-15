@@ -1,0 +1,20 @@
+{
+  "name": "zevora",
+  "displayName": "Zevora",
+  "description": "A modern dark theme for developers.",
+  "version": "0.0.1",
+  "publisher": "your-publisher-id",
+  "category": "Themes",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zevora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zevora-color-theme.json"
+      }
+    ]
+  }
+}

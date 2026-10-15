@@ -1,0 +1,29 @@
+:root {
+  --accent: #a78bfa;
+  --accent-deep: #8b5cf6;
+  --surface: #10141a;
+  --radius: 8px;
+}
+
+.page {
+  font-family: "Inter", system-ui, sans-serif;
+  color: var(--accent);
+  background: rgb(13 16 20 / 80%);
+  padding: 1.5rem 2rem;
+}
+
+.page__title::selection {
+  color: #ddd6fe;
+}
+
+.page--dark > #site-header:hover {
+  border-bottom: 1px solid var(--accent-deep) !important;
+}
+
+@media (min-width: 48em) {
+  .page {
+    padding: 3rem;
+  }
+}
+
+/* TODO: add print styles */
