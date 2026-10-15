@@ -8,12 +8,38 @@
   "engines": {
     "vscode": "^1.70.0"
   },
+  "main": "./extension.js",
+  "activationEvents": [
+    "onCommand:zevora.switchTheme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Zevora",
+        "label": "Zevora Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/zevora-color-theme.json"
+      },
+      {
+        "label": "Zevora Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zevora-midnight-color-theme.json"
+      },
+      {
+        "label": "Zevora Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zevora-emerald-color-theme.json"
+      },
+      {
+        "label": "Zevora Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zevora-ember-color-theme.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "zevora.switchTheme",
+        "title": "Switch Theme",
+        "category": "Zevora"
       }
     ]
   }
