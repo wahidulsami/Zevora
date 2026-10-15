@@ -33,6 +33,11 @@
         "label": "Zevora Ember",
         "uiTheme": "vs-dark",
         "path": "./themes/zevora-ember-color-theme.json"
+      },
+      {
+        "label": "Zevora Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zevora-eclipse-color-theme.json"
       }
     ],
     "commands": [

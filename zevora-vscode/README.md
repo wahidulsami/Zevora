@@ -1,6 +1,6 @@
 # Zevora
 
-**Zevora** is a family of four dark color themes for VS Code (and VS Code
+**Zevora** is a family of five dark color themes for VS Code (and VS Code
 forks such as Antigravity IDE), with a built-in quick-switch command. Every
 variant ships complete workbench styling, TextMate syntax colors, semantic
 token colors, and a full 16-color terminal palette.
@@ -13,6 +13,7 @@ token colors, and a full 16-color terminal palette.
 | **Zevora Midnight** | `themes/zevora-midnight-color-theme.json` | Deep navy, electric blue & cyan, lavender keywords |
 | **Zevora Emerald** | `themes/zevora-emerald-color-theme.json`  | Deep forest green, emerald & mint, warm yellow types |
 | **Zevora Ember** | `themes/zevora-ember-color-theme.json`     | Dark charcoal, amber & coral, warm peach strings     |
+| **Zevora Eclipse** | `themes/zevora-eclipse-color-theme.json`  | Near-black, glowing orange & steel blue              |
 
 ### Palette at a glance
 
@@ -22,8 +23,9 @@ token colors, and a full 16-color terminal palette.
 | Zevora Midnight  | `#0A0F1C`         | `#22D3EE`       | `#B9A6FF` | `#4DAAFF` | `#82D9A6` | `#7FE0E8` |
 | Zevora Emerald   | `#0A1712`         | `#10B981`       | `#6EE7B7` | `#66C7F0` | `#A5D98A` | `#FFD98A` |
 | Zevora Ember     | `#171312`         | `#FFAE57`       | `#FFA94D` | `#7EB8F0` | `#A8C98A` | `#FFD97A` |
+| Zevora Eclipse   | `#0A0A0F`         | `#FF9E64`       | `#6B9FE8` | `#FF9E64` | `#98C379` | `#E5C07B` |
 
-All four variants use the same syntax structure (keywords, functions, strings,
+All five variants use the same syntax structure (keywords, functions, strings,
 numbers, types, constants, parameters, properties, operators, comments,
 decorators, HTML tags/attributes, CSS selectors, diff colors, and more), so
 switching variants keeps everything familiar — only the mood changes.
@@ -51,14 +53,14 @@ code --install-extension zevora-0.0.1.vsix
 > CLI installs into regular VS Code's extension folder. For your fork, use its
 > own UI: **Extensions panel → ⋯ menu → Install from VSIX…**, or its own CLI
 > binary with the same flag. After installing, run **Developer: Reload
-> Window** so the theme registry picks up all four variants.
+> Window** so the theme registry picks up all five variants.
 
 ### From source (development)
 
 1. Open this folder in VS Code.
 2. Press `F5` to launch the **Extension Development Host**.
 3. In the new window: `Ctrl+Shift+P` → **Zevora: Switch Theme** (or
-   **Preferences: Color Theme**) and try all four variants.
+   **Preferences: Color Theme**) and try all five variants.
 
 ## Packaging
 

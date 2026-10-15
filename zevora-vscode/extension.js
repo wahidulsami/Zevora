@@ -5,6 +5,7 @@ const ZEVORA_THEMES = [
   'Zevora Midnight',
   'Zevora Emerald',
   'Zevora Ember',
+  'Zevora Eclipse',
 ];
 
 function activate(context) {
